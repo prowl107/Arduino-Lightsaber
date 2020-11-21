@@ -21,8 +21,8 @@ The Arduino Lightsaber is a model lightsaber created with a 3D printed hilt and 
 [19mm Momentary Push Button Switch]: https://www.amazon.com/gp/product/B07XN78WXH/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
 
 ## Required Libraries
--[Bolder Flight Systems MPU9250]
--[Adafruit NeoPixel Library]
+- [Bolder Flight Systems MPU9250]
+- [Adafruit NeoPixel Library]
 
 [Bolder Flight Systems MPU9250]: https://github.com/bolderflight/MPU9250
 [Adafruit NeoPixel Library]: https://github.com/adafruit/Adafruit_NeoPixel
