@@ -11,6 +11,7 @@ The biggest challenge was mounting everything inside the hilt. When I designed i
 For the most part this was a sucess even on a small scale. Starting from absolutely nothing, I did learn alot and some of that knowledge served me in my classes. Despite the mistakes, I think this was a good first step and there will definetly be a second model at some point in the future. 
 
 ## Pictures
+<img src="images/20201129_215438.jpg" height=50%>
 
 ## Components used
 - [Arduino Nano Every]
