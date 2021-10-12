@@ -2,13 +2,13 @@
 The Arduino Lightsaber is a model lightsaber created with a 3D printed hilt and ws2812b LED strips 
 
 ## Description
-This project was my first adventure into working with electronics and hardware. Since I was transitioning from an Aerospace Engineering major, I knew next to nothin about working with hardware let alone software development. From October 2019 to May 2020 I gradually started picking up the knloweldge I needed to eventually finish the project. 
+This project was my first adventure into working with electronics and hardware. Since I was transitioning from an Aerospace Engineering major, I knew next to nothing about working with hardware let alone software development. From October 2019 to May 2020 I gradually started picking up the knowledge I needed to eventually finish the project. 
 
-My goal was to create a somewhat realistic model lightsaber similar to the ones produced by companies such as ultrasabers and kyberlight although definetly not as durable. To make up for that, I wanted the ability to control the color of the blade and allow the user to choose the sound fonts. 
+My goal was to create a somewhat realistic model lightsaber similar to the ones produced by companies such as ultrasabers and kyberlight although not as durable. To make up for that, I wanted the ability to control the color of the blade and allow the user to choose the sound fonts. 
 
-The biggest challenge was mounting everything inside the hilt. When I designed it, I did not account for the extra bit of width on the breadboards and the space taken up by the lipo battery. As a result I decided to remove the IMU since I wasn't able to spend too much longer on this project. Fortunately, I was able to include the color chaning blade and changeable sound fonts. 
+The biggest challenge was mounting everything inside the hilt. When I designed it, I did not account for the extra bit of width on the breadboards and the space taken up by the lipo battery. As a result, I decided to remove the IMU since I wasn't able to spend too much longer on this project. Fortunately, I was able to include the color-changing blade and changeable sound fonts. 
 
-For the most part this was a sucess even on a small scale. Starting from absolutely nothing, I did learn alot and some of that knowledge served me in my classes. Despite the mistakes, I think this was a good first step and there will definetly be a second model at some point in the future. 
+For the most part, this was a success even on a small scale. Starting from absolutely nothing, I did learn a lot and some of that knowledge served me in my classes. Despite the mistakes, I think this was a good first step and there will be a second model at some point. 
 
 ## Final Product
 <img src="images/20201129_215438.jpg">
@@ -57,4 +57,7 @@ All development on this project has stopped currently.
 
 ## Future Roadmap
 There are plans to make a second model sometime during 2021 or later. I want to fix the mistakes I made with this model and create a much more robust product. 
+
+## Gallery & Photos
+https://photos.app.goo.gl/QvRC8BsJFbZrJcFr7
     
